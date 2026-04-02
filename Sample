@@ -1,0 +1,4 @@
+cd your-project-folder
+npm install
+npm install uuid
+npm start
